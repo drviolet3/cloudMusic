@@ -1,0 +1,1 @@
+import{s as a,m as s,p as t}from"./index.1e554a58.js";function e(e){return new Promise(((r,i)=>{a({title:"加载中..."}),s({url:"https://www.kjh666.asia"+e.url,method:e.method||"GET",data:e.data||{},success:a=>{r(a),t()},fail:a=>{i(a),t()}})}))}export{e as h};
